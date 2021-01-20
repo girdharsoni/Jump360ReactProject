@@ -1,0 +1,308 @@
+[
+    {
+        "id":1,
+        "restaurantName":"Indian Accent",
+        "address":" The Lodhi, New Delhi ",
+        "contactName":" Raj Deep singh",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQC9Op-DUnjvB2nZsKTP-L-tFpX0E9mT9rSw&usqp=CAU"
+    },
+    {
+        "id":2,
+        "restaurantName":"The Bombay Canteen",
+        "address":"Mumbai ",
+        "contactName":" Johan Doe",
+        "contactNumber":"96603407789",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeaHsDcR5ExmDoFK3Qu-LHn-xq7uZOnT5WqQ&usqp=CAU"
+
+    },
+    {
+        "id":3,
+        "restaurantName":"IZUMI",
+        "address":"Mumbai",
+        "contactName":" Mikal",
+        "contactNumber":"9896340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPsdP7qn4RzTU-WP3OovpgtFBceOoY_RZtRA&usqp=CAU"
+    },
+    {
+        "id":4,
+        "restaurantName":"The Table",
+        "address":"Mumbai ",
+        "contactName":"Jarvis",
+        "contactNumber":"966994018",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP_gXlgYgS9L_ifoNEsawFCDMrUKEm_4txLQ&usqp=CAU"
+
+    },
+    {
+        "id":5,
+        "restaurantName":"Toast & Tonic",
+        "address":"Bengaluru ",
+        "contactName":"V.R. Raman",
+        "contactNumber":"9668556116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh4H0b4WB_7LgXPh45REgs5cYHgaCY8oMhSQ&usqp=CAU"
+    },
+    {
+        "id":6,
+        "restaurantName":"Bomras",
+        "address":"Goa",
+        "contactName":" Kiran Singh",
+        "contactNumber":"9667340888",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://i1.wp.com/www.dailycal.org/assets/uploads/2019/10/food_Allison-Fong_staff2-900x580.jpeg"
+    },
+    {
+        "id":7,
+        "restaurantName":"O Pedro",
+        "address":"Mumbai ",
+        "contactName":"Fridy",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuWnu5dRvmc7WqvaoBDU1ANIlCYml7qdjxRw&usqp=CAU"
+    },
+    {
+        "id":8,
+        "restaurantName":"The Black Sheep Bistro",
+        "address":" Goa ",
+        "contactName":"Nikola",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrgxzL0DyRjcTRJNpd9o2LoIsDjJNfcDCrFw&usqp=CAU"
+    },
+    {
+        "id":9,
+        "restaurantName":"Dum-Pukht",
+        "address":"New Delhi ",
+        "contactName":" Raj Deep singh",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://cdn.theculturetrip.com/wp-content/uploads/2018/02/indian-thali-1-650x366.jpg"
+
+    },
+    {
+        "id":10,
+        "restaurantName":"Wasabi by Morimoto",
+        "address":"The Taj Mahal Palace, Mumbai ",
+        "contactName":" Raj Deep singh",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://www.thespruceeats.com/thmb/6Cofsx3edLVIJ76F6EDwYBqNs_k=/3752x2110/smart/filters:no_upscale()/south-indian-food-548291937-588b4fcd5f9b5874ee174914.jpg"
+
+    },
+    {
+        "id":11,
+        "restaurantName":"Gunpowder",
+        "address":"Goa ",
+        "contactName":" Raj Deep singh",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://yennadosa.com/wp-content/uploads/2018/05/Masala_Paniyara.jpg"
+
+    },
+    {
+        "id":12,
+        "restaurantName":"EDO Restaurant & Bar",
+        "address":"Bengaluru",
+        "contactName":" Raj Deep singh",
+        "contactNumber":"9660340116",
+        "menu":[
+            {
+                "key":1,
+                "menuName":"French Fries",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":2,
+                "menuName":"Pizza",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            },
+            {
+                "key":3,
+                "menuName":"Burger",
+                "discription":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse malesuada lacus ex, sit amet blandit leo lobortis eget."
+            }
+        ],
+        "imagePath":"https://lh3.googleusercontent.com/proxy/69oVO6-0uzEICnlf_OAg4wEmT0HCtOEagSTiXgOKgvMjZEENOtNocJ8ywj7LYD3EQ2LrMMrVRHUqQdGRrLWIEePAmvDEstzMUSgnJ1ZJXYywOQNV3Q1jkWcgR6mMtXlDXiXxMdvJ-BM"
+
+    }
+]
